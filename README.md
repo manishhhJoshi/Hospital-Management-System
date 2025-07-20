@@ -44,7 +44,7 @@ Hospital management system/
 
 ## Author
 
-This project was developed by \[Your Name Here].
+This project was developed by Manish Joshi.
 
 Feel free to modify and extend the functionality!
 
